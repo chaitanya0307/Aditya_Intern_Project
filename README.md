@@ -28,30 +28,10 @@ This dashboard is a **static (no backend)** web project designed to present Gras
   - Basic alert-based search placeholder  
 
 
-
- CSS Architecture
-
-```text
-:root
- ├── Variables (colors, fonts, spacing)
- ├── Global reset (`*`)
- ├── Utilities (.container, .cta-button, etc.)
- ├── Layout & Components (navbar, hero, cards, grids, forms, footer)
- └── Responsive rules via media queries (breakpoints at 992px, 768px, 480px)
- JavaScript Functionality
-Auto-Close Menu on Link Click
-
-Improves UX: menu closes when a navigation link is clicked in mobile view.
-
-Cookie Consent Banner
-
- Setup & Installation
 Clone the repo:
 git clone https://github.com/chaitanya0307/Aditya_Intern_Project -dashboard.git
-cd grasim-dashboard
-Optionally tweak variables at the top of style.css for brand customization.
+cd Aditya_Intern_Project-dashboard
 
-Open index.html in your browser — no build tools or server required.
 
 
 Crafted with care by Chaitanya
